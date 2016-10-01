@@ -81,6 +81,9 @@ article > footer {
   text-decoration: none;
 }
 
+.botao:hover, .botao:focus {
+  background-color: #0e6400;
+}
 /*
 article > ul > li > strong {
   font-weight: bold;
