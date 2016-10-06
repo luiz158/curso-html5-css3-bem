@@ -4,6 +4,11 @@ Curso: Web Design Responsivo com HTML5, CSS3 e BEM
 
 Instrutor: Thiago Faria de Andrade
 
+
+
+
+
+
 Capítulos:
 
 1. Introdução
@@ -65,7 +70,6 @@ Capítulos:
   3.15. Box model e a propriedade box-sizing
   
 4. Iniciando o projeto do curso
-
   
 5. Web Design Responsivo
 6. Especificidade, BEM e boas práticas
