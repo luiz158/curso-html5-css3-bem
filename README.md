@@ -4,9 +4,11 @@ Curso: Web Design Responsivo com HTML5, CSS3 e BEM
 
 Instrutor: Thiago Faria de Andrade
 
+
 Capítulos
 
 1. Introdução
+  1.1. Introdução ao curso
 2. Começando com HTML
 3. Começando com CSS
 4. Iniciando o projeto do curso
