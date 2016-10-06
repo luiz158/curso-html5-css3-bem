@@ -1,14 +1,17 @@
+/* Guidelines CSS - Ordem */
+/* Posicionamento */
+/* Display e Box Model */
+/* Cores */
+/* Texto */
+/* Outros */
+
+html {
+  font-size: 62.5%;
+}
+
 body {
-  /* Posicionamento */
-  
-  /* Display e Box Model */
   margin: 0;
 
-  /* Cores */
-  
-  /* Texto */
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 14px;
-
-  /* Outros */
+  font-size: 1.4rem; 
 }
