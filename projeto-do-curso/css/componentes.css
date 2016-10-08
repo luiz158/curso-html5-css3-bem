@@ -89,7 +89,7 @@
   background-color: #127d00;
 }
 
-.botao--assinar:hover, botao--assinar:focus {
+.botao--assinar:hover, .botao--assinar:focus {
   background-color: #0e6400;
 }
 
